@@ -18,8 +18,7 @@
     "type": "image/png",
     "sizes": "192x192"
   }],
-  "start_url": "index.html?launcher=true",
-  "background_color": "#EC7063",
+ "start_url": "https://imocc.github.io/frame/",  "background_color": "#EC7063",
   "display": "standalone",
   "orientation": "portrait",
   "theme_color": "#EC7063"
